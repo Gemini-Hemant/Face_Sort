@@ -48,6 +48,7 @@ mtcnn==0.1.1
 namex==0.0.8
 numpy==1.26.4
 opencv-python-headless
+opencv-contrib-python
 opt-einsum==3.3.0
 optree==0.11.0
 packaging==24.1
