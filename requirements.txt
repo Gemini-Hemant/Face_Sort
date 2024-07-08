@@ -47,6 +47,8 @@ ml-dtypes==0.3.2
 mtcnn==0.1.1
 namex==0.0.8
 numpy==1.26.4
+opencv-contrib-python==4.7.0.68
+opencv-python==4.7.0.68
 opt-einsum==3.3.0
 optree==0.11.0
 packaging==24.1
@@ -103,4 +105,3 @@ mtcnn>=0.1.0
 retina-face>=0.0.1
 fire>=0.4.0
 gunicorn>=20.1.0
-opencv-python[opengl]
