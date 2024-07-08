@@ -48,7 +48,7 @@ mtcnn==0.1.1
 namex==0.0.8
 numpy==1.26.4
 opencv-contrib-python==4.10.0.84
-opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
 opt-einsum==3.3.0
 optree==0.11.0
 packaging==24.1
@@ -78,6 +78,7 @@ tenacity==8.4.2
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
 tensorflow==2.16.1
+tensorflow-intel==2.16.1
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 tf_keras==2.16.0
